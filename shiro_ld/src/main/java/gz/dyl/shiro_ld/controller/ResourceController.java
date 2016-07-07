@@ -13,6 +13,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+/**
+ * 在git仓库中修改文件，测试ResourceController
+ */
 @Controller
 @RequestMapping(value = "resource")
 public class ResourceController {
