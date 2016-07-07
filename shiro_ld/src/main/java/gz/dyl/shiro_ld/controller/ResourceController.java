@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * 在git仓库中修改文件，测试ResourceController
  * 在git仓库中修改文件，测试ResourceController2
+	github01;
  */
 @Controller
 @RequestMapping(value = "resource")
