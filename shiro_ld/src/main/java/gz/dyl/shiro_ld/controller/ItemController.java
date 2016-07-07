@@ -10,6 +10,11 @@ import org.apache.shiro.subject.Subject;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+/**
+ * 在eclipse的git管理中修改了文件，测试01；
+ * @author Administrator
+ *
+ */
 @Controller
 @RequestMapping(value = "item")   
 public class ItemController {
