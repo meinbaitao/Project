@@ -23,6 +23,7 @@ public class ResourceController {
 	@Autowired
 	private CustomRealm customRealm;
 	
+	//file
 	@RequestMapping(value = "login", method = RequestMethod.GET)
 	public String login(HttpServletRequest request){
 		
