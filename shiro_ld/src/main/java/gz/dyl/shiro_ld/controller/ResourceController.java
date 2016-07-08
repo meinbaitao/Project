@@ -20,6 +20,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 	github02;
 	github03;
 	github04;
+	github05;
  */
 @Controller
 @RequestMapping(value = "resource")
